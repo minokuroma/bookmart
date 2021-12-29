@@ -1,0 +1,12 @@
+/* Webfont: Aabel-RegularDemo */@font-face {
+    font-family: 'AabelDemo';
+    src: url('Aabel-RegularDemo.eot'); /* IE9 Compat Modes */
+    src: url('Aabel-RegularDemo.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Aabel-RegularDemo.woff') format('woff'), /* Modern Browsers */
+         url('Aabel-RegularDemo.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Aabel-RegularDemo.svg#Aabel-RegularDemo') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
